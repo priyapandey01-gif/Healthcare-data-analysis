@@ -1,10 +1,7 @@
 # Healthcare Patient Data Analysis
 
 ## About
-Analysed 54,966 patient records to identify disease trends, 
-admission patterns, billing insights and hospital performance.
-Data cleaned in Excel — removed 534 duplicates, fixed date 
-formats and added Length of Stay column.
+Analyzed 54,966 healthcare records to uncover patient trends, hospital performance, and billing patterns. Improved data quality by removing 534 duplicates, standardizing date formats, and engineering a “Length of Stay” feature to support deeper analysis.
 
 ## Tools Used
 - MySQL — data extraction and analysis
