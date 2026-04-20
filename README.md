@@ -6,19 +6,24 @@ Analyzed 54,966 healthcare records to uncover patient trends, hospital performan
 ## Tools Used
 - MySQL — data extraction and analysis
 - Excel — data cleaning and preparation
-- Tableau — interactive dashboard (link below)
+- Tableau — interactive dashboard
 
 ## Key Findings
-- Most common medical condition: [Arthritis- 9218 cases]
-- Highest patient admission month: [February- 4210 cases]
-- Top hospital by patient volume: [LLC Smith- 44 patients]
-- Average billing amount: [25544.31 rupees]
-- Admission type with longest stay: [Emergency- 15.6 days]
+- Arthritis accounts for the highest number of cases (9,218), indicating a major chronic disease burden
+- Patient admissions peak in February, suggesting seasonal trends in healthcare demand
+- Emergency admissions have the longest average stay (15.6 days), increasing hospital resource utilization
+- Average billing per patient is ₹25,544, highlighting overall treatment cost trends
+
+## Business Impact
+- Helps hospitals plan for peak admission periods
+- Supports cost and billing optimization
+- Improves resource allocation using patient trends
 
 ## Files
-- healthcare_queries.sql — all 11 SQL queries
-- healthcare_cleaned.xlsx — cleaned dataset
-- Screenshots — query results and insights
+- healthcare_queries.sql → SQL analysis queries
+- healthcare_cleaned.xlsx → cleaned dataset
+- dashboard.png → visualization preview
+- screenshots/ → query outputs
 
 ## Dashboard
 🔗 Tableau Public Link — [adding soon]
