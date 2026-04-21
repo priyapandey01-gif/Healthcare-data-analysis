@@ -26,7 +26,7 @@ Analyzed 54,966 healthcare records to uncover patient trends, hospital performan
 - screenshots/ → query outputs
 
 ## Dashboard
-🔗 Tableau Public Link — [adding soon]
+🔗 Tableau Public Link — [https://public.tableau.com/app/profile/priya.pandey3695/viz/Healthcaretableau/Dashboard1?publish=yes]
 
 ## Dataset Source
 Kaggle — Healthcare Dataset by Prasad
