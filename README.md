@@ -10,7 +10,7 @@ Analyzed 54,966 healthcare records to uncover patient trends, hospital performan
 
 ## Key Findings
 - Arthritis accounts for the highest number of cases (9,218), indicating a major chronic disease burden
-- Patient admissions peak in February, suggesting seasonal trends in healthcare demand
+- Patient admissions peak in August, suggesting seasonal trends in healthcare demand
 - Emergency admissions have the longest average stay (15.6 days), increasing hospital resource utilization
 - Average billing per patient is ₹25,544, highlighting overall treatment cost trends
 
